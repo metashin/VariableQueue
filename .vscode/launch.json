@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/media/sf_vmShared/VariableQueue",
-      "program": "/media/sf_vmShared/VariableQueue/main",
+      "program": "/media/sf_vmShared/VariableQueue/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
